@@ -1,0 +1,16 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1523283650967,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1724491571386,
+        "title": "临床科学家",
+        "icon": "https://logo.clearbit.com/www.clinicalscientists.cn",
+        "url": "https://www.clinicalscientists.cn/"
+      }
+    ]
+  }
+]
